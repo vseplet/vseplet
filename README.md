@@ -8,9 +8,12 @@ I have been working as a programmer for more than four years and have been study
 
 - Organizing and optimizing workflows, selecting technical solutions, and system design.
 - Developing tools to simplify developers' lives, such as:
-  - **[Shelly](https://github.com/vseplet/shelly):** A utility for interacting with CLI based on Deno.
-  - **[PFlow](https://github.com/vseplet/pflow):** A lightweight library for building simple automation workflows.
-  - **[Shibui](https://github.com/vseplet/shibui):** A framework for process automation.
+  - **[Reface](https://github.com/devexp-pro/reface):** An embeddable fullstack framework for creating Hypermedia-Driven Applications without a build step, based on HTMX and Hono.
+  - **[Fetchify](https://github.com/vseplet/fetchify):** A gentle, promise-based HTTP client.
+  - **[Luminous](https://github.com/vseplet/luminous):** An extremely configurable logger for Deno and Node.js.
+  - **[Apifly](https://github.com/vseplet/apifly):** A cross-runtime state sharing library over HTTP.
+  - **[Shibui](https://github.com/vseplet/shibui):** A universal automation script management framework.
+  - **[Shelly](https://github.com/vseplet/shelly):** A tool for interacting with command-line utilities using Deno.
 
 ---
 
