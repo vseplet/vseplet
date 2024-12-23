@@ -32,7 +32,7 @@ I am passionate about exploring new languages, practices, and technologies. I en
 
 ## 📲 Stay Connected
 
-- Follow my **Telegram channel** [IT Nigilism](https://t.me/itnigilizm) for thoughts, insights, and updates about programming and tech.  
+- Follow my **Telegram channel** [IT NIGILIZM](https://t.me/itnigilizm) for thoughts, insights, and updates about programming and tech.  
 - Connect with me on **Twitter**: [@vseplet](https://x.com/vseplet)
 
 ✨ **Don’t forget to star ⭐ my repositories if you find them useful!**
