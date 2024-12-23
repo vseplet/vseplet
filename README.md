@@ -8,6 +8,7 @@ I have been working as a programmer for more than four years and have been study
 
 - Organizing and optimizing workflows, selecting technical solutions, and system design.
 - Developing tools to simplify developers' lives, such as:
+  - **[DevExp CLI](https://github.com/devexp-pro/cli):** Powerful CLI tool to improve developer experience.
   - **[Reface](https://github.com/devexp-pro/reface):** An embeddable fullstack framework for creating Hypermedia-Driven Applications without a build step, based on HTMX and Hono.
   - **[Shibui](https://github.com/vseplet/shibui):** A universal automation script management framework.
   - **[Fetchify](https://github.com/vseplet/fetchify):** A gentle, promise-based HTTP client.
