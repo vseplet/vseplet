@@ -34,5 +34,6 @@ I am passionate about exploring new languages, practices, and technologies. I en
 
 - Follow my **Telegram channel** [IT NIGILIZM](https://t.me/itnigilizm) for thoughts, insights, and updates about programming and tech.  
 - Connect with me on **Twitter**: [@vseplet](https://x.com/vseplet)
+- Read my posts on [DEV](https://dev.to/sevapp)
 
 ✨ **Don’t forget to star ⭐ my repositories if you find them useful!**
