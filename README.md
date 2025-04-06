@@ -1,6 +1,6 @@
 # Hello! 👋 My name is 🔥 Vsevolod 🔥
 
-I have been working as a programmer for more than four years and have been studying programming for even longer. Over this time, I have gained extensive experience in organizing and optimizing workflows and developing projects from scratch — from SPA applications to embedded systems.
+I have been working as a programmer for more than six years and have been studying programming for even longer. Over this time, I have gained extensive experience in organizing and optimizing workflows and developing projects from scratch — from SPA applications to embedded systems.
 
 ---
 
@@ -8,6 +8,7 @@ I have been working as a programmer for more than four years and have been study
 
 - Organizing and optimizing workflows, selecting technical solutions, and system design.
 - Developing tools to simplify developers' lives, such as:
+  - **[IT NIGLIZM](https://itng.blog/)** My own tech blog.
   - **[DevExp CLI](https://github.com/devexp-pro/cli):** Powerful CLI tool to improve developer experience.
   - **[Reface](https://github.com/devexp-pro/reface):** An embeddable fullstack framework for creating Hypermedia-Driven Applications without a build step, based on HTMX and Hono.
   - **[Shibui](https://github.com/vseplet/shibui):** A universal automation script management framework.
