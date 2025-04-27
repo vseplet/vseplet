@@ -1,4 +1,4 @@
-# Hello! 👋 My name is 🔥 Vsevolod 🔥
+# Hello! 👋 My name is Vsevolod
 
 I have been working as a programmer for more than six years and have been studying programming for even longer. Over this time, I have gained extensive experience in organizing and optimizing workflows and developing projects from scratch — from SPA applications to embedded systems.
 
@@ -7,15 +7,20 @@ I have been working as a programmer for more than six years and have been studyi
 ## 🚀 What I do:
 
 - Organizing and optimizing workflows, selecting technical solutions, and system design.
+
+- **[IT NIGLIZM](https://itng.blog/)** My own tech blog.
 - Developing tools to simplify developers' lives, such as:
-  - **[IT NIGLIZM](https://itng.blog/)** My own tech blog.
   - **[DevExp CLI](https://github.com/devexp-pro/cli):** Powerful CLI tool to improve developer experience.
+- Modules:
   - **[Reface](https://github.com/devexp-pro/reface):** An embeddable fullstack framework for creating Hypermedia-Driven Applications without a build step, based on HTMX and Hono.
   - **[Shibui](https://github.com/vseplet/shibui):** A universal automation script management framework.
   - **[Fetchify](https://github.com/vseplet/fetchify):** A gentle, promise-based HTTP client.
   - **[Apifly](https://github.com/vseplet/apifly):** A cross-runtime state sharing library over HTTP.
   - **[Shelly](https://github.com/vseplet/shelly):** A tool for interacting with command-line utilities using Deno.
   - **[Luminous](https://github.com/vseplet/luminous):** An extremely configurable logger for Deno and Node.js.
+- Experiments:
+  - **[PPORT](https://pport.top):** Text-based Messenger for the Command Line
+  - **[NoWrite](https://nowrite.fun)** No Write is a minimalist browser-based writing game
 
 ---
 
