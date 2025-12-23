@@ -10,18 +10,17 @@ I have been working as a programmer for more than six years and have been studyi
 
 - **[IT NIGLIZM](https://itng.blog/)** My own tech blog.
 - Modules:
-  - **[Morph](https://github.com/vseplet/morph):** An embeddable fullstack library for creating Hypermedia-Driven Applications without a build step, based on HTMX and Hono.
-  - **[Shibui](https://github.com/vseplet/shibui):** A universal automation script management framework.
-  - **[Fetchify](https://github.com/vseplet/fetchify):** A gentle, promise-based HTTP client.
-  - **[Apifly](https://github.com/vseplet/apifly):** A cross-runtime state sharing library over HTTP.
-  - **[Shelly](https://github.com/vseplet/shelly):** A tool for interacting with command-line utilities using Deno.
-  - **[Luminous](https://github.com/vseplet/luminous):** An extremely configurable logger for Deno and Node.js.
+  - **[Morph](https://github.com/vseplet/morph):** An embeddable fullstack library for creating Hypermedia-Driven Applications without a build step, based on HTMX and Hono
+  - **[Shibui](https://github.com/vseplet/shibui):** A universal automation script management framework
+  - **[Fetchify](https://github.com/vseplet/fetchify):** A gentle, promise-based HTTP client
+  - **[Apifly](https://github.com/vseplet/apifly):** A cross-runtime state sharing library over HTTP
+  - **[Shelly](https://github.com/vseplet/shelly):** A tool for interacting with command-line utilities using Deno
+  - **[Luminous](https://github.com/vseplet/luminous):** An extremely configurable logger for Deno and Node.js
 - Experiments:
-  - **[PPORT](https://pport.top):** Text-based Messenger for the Command Line
+  - **[PPORT](https://pport.deno.dev):** Text-based Messenger for the Command Line
   - **[NoWrite](https://nowrite.fun)** No Write is a minimalist browser-based writing game
   - **[whitepape.rs](https://whitepape.rs/)** Super simple editor for productive writing of posts for social networks
   - **[pflow](https://github.com/vseplet/pflow)** Micro cross-platform library for creating simple workflow scripts
-  - **[HEV](https://github.com/vseplet/HEV)** TypeScript Isolate Hypervisor
 
 ---
 
