@@ -9,8 +9,6 @@ I have been working as a programmer for more than six years and have been studyi
 - Organizing and optimizing workflows, selecting technical solutions, and system design.
 
 - **[IT NIGLIZM](https://itng.blog/)** My own tech blog.
-- Developing tools to simplify developers' lives, such as:
-  - **[DevExp CLI](https://github.com/devexp-pro/cli):** Powerful CLI tool to improve developer experience.
 - Modules:
   - **[Morph](https://github.com/vseplet/morph):** An embeddable fullstack library for creating Hypermedia-Driven Applications without a build step, based on HTMX and Hono.
   - **[Shibui](https://github.com/vseplet/shibui):** A universal automation script management framework.
