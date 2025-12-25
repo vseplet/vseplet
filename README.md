@@ -13,7 +13,6 @@ I have been working as a programmer for more than six years and have been studyi
   - **[Morph](https://github.com/vseplet/morph):** An embeddable fullstack library for creating Hypermedia-Driven Applications without a build step, based on HTMX and Hono
   - **[Shibui](https://github.com/vseplet/shibui):** A universal automation script management framework
   - **[Fetchify](https://github.com/vseplet/fetchify):** A gentle, promise-based HTTP client
-  - **[Shelly](https://github.com/vseplet/shelly):** A tool for interacting with command-line utilities using Deno
   - **[Luminous](https://github.com/vseplet/luminous):** An extremely configurable logger for Deno and Node.js
 - Experiments:
   - **[PPORT](https://pport.deno.dev):** Text-based Messenger for the Command Line
