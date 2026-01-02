@@ -15,6 +15,7 @@ I have been working as a programmer for more than six years and have been studyi
   - **[Fetchify](https://github.com/vseplet/fetchify):** A gentle, promise-based HTTP client
   - **[Luminous](https://github.com/vseplet/luminous):** An extremely configurable logger for Deno and Node.js
 - Experiments:
+  - **[gp](https://github.com/vseplet/gp)** CLI tool for managing multiple Git identities
   - **[PPORT](https://pport.deno.dev):** Text-based Messenger for the Command Line
   - **[NoWrite](https://nowrite.fun)** No Write is a minimalist browser-based writing game
   - **[whitepape.rs](https://whitepape.rs/)** Super simple editor for productive writing of posts for social networks
