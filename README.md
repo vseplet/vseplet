@@ -14,6 +14,8 @@ I have been working as a programmer for more than six years and have been studyi
   - **[Shibui](https://github.com/vseplet/shibui):** A universal automation script management framework
   - **[Fetchify](https://github.com/vseplet/fetchify):** A gentle, promise-based HTTP client
   - **[Luminous](https://github.com/vseplet/luminous):** An extremely configurable logger for Deno and Node.js
+- Games:
+  - **[Gravity Merge](https://gravity-merge.vercel.app)** HTML5, Phaser, Bun
 - Experiments:
   - **[smith](https://github.com/vseplet/smith)** Hackable skinny Clawdbot for Telegram
   - **[gp](https://github.com/vseplet/gp)** CLI tool for managing multiple Git identities
