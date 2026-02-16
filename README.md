@@ -17,6 +17,9 @@ I have been working as a programmer for more than six years and have been studyi
 - Games:
   - **[Gravity Merge](https://gravity-merge.vercel.app)** HTML5, Phaser, Bun
   - **[Kawaii Drop](https://poki.com/en/preview/539af120-de15-49e2-b19a-eacaa08294d2/cc67c586-6b24-498b-928c-12073adf6d12)** HTML5, Phaser, Bun (on Poki)
+  - **[Bunny Hop Infinite](https://poki.com/en/preview/214d739c-4845-4081-9809-b1172279a4b2/dcfcd7e7-6c92-474d-a5c0-5c4b4efb6c29)** HTML5, ThreeJS, Bun (on Poki)
+  - **[Cats And Zombies](https://poki.com/en/preview/f2ab44c3-e286-4f39-b5a1-ac153b2d86f9/59b8505f-01f3-48bc-9963-8a9b107b8b44)** HTML5, Phaser, Bun (on Poki)
+  - **[Telegochi](https://t.me/telegochigamebot)** HTML5, Phaser, Deno, Teleram, Supabase, Flyio
 - Experiments:
   - **[smith](https://github.com/vseplet/smith)** Hackable skinny Clawdbot for Telegram
   - **[gp](https://github.com/vseplet/gp)** CLI tool for managing multiple Git identities
