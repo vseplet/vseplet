@@ -16,6 +16,7 @@ I have been working as a programmer for more than six years and have been studyi
   - **[Luminous](https://github.com/vseplet/luminous):** An extremely configurable logger for Deno and Node.js
 - Games:
   - **[Gravity Merge](https://gravity-merge.vercel.app)** HTML5, Phaser, Bun
+  - **[Kawaii Drop](https://poki.com/en/preview/539af120-de15-49e2-b19a-eacaa08294d2/cc67c586-6b24-498b-928c-12073adf6d12)** HTML5, Phaser, Bun (on Poki)
 - Experiments:
   - **[smith](https://github.com/vseplet/smith)** Hackable skinny Clawdbot for Telegram
   - **[gp](https://github.com/vseplet/gp)** CLI tool for managing multiple Git identities
